@@ -1,0 +1,22 @@
+#start {
+  margin: 10px;
+  margin-left: 200px;
+  size: 10px;
+  border: 20px;
+  font-size: 15px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+#stop {
+  margin: 10px;
+  size: 10px;
+  border: 20px;
+  font-size: 15px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  cursor: pointer;
+}
